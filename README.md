@@ -1,4 +1,12 @@
-## SEOK
+## YUNSEOK JEONG
+
+I am a student in the Computer Science department at Seoul National University of Science and Technology.
+
+I am passionate about various fields, including frontend, backend, artificial intelligence, and security.
+
+Currently, I am particularly focused on improving my skills as a frontend developer.
+
+-------
 
 - 🌱 I’m currently learning
 
