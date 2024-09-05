@@ -1,4 +1,4 @@
-## YUNSEOK JEONG
+## YUNSEOK JEONG :frog:
 
 I am a student in the Computer Science department at Seoul National University of Science and Technology.
 
