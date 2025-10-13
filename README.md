@@ -26,8 +26,8 @@
 - 12기 프론트엔드 멤버 참여 
 - 13기 프론트엔드 운영진 활동
 
-#### ☁️ **GDGoC Seoultech (2024.06 ~ 2025.03)**
-- Google Developer Groups on Campus **운영진(Core)** 으로 활동
+#### ☁️ **GDGoC Seoultech (2024.08 ~ 2025.03)**
+- 4기 **운영진(Core)** 활동
 
 #### 💻 **TOOLS (2023.03 ~ 2024.11)**
 - 교내 학술 동아리
