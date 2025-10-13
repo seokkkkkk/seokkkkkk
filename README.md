@@ -1,36 +1,47 @@
-## YUNSEOK JEONG :frog:
+## :frog: 안녕하세요, 정윤석입니다. 
 
-I am a student in the Computer Science department at Seoul National University of Science and Technology.
+### 🎓 학력
+**서울과학기술대학교 (Seoul National University of Science and Technology)**  
+컴퓨터공학과
+📆 2020.03 ~ 2026.02 (예정)  
 
-I am passionate about various fields, including frontend, backend, artificial intelligence, and security.
+---
 
-Currently, I am particularly focused on improving my skills as a frontend developer.
+### 🏆 공모전
+| 연도 | 대회명 | 내역 | 주관 |
+|------|---------|-----------|------|
+| 2024 | 공개 SW 개발자대회 | 장려상 | 정보통신산업진흥원 |
+| 2024 | K-해커톤 | 본선 진출 | 정보통신산업진흥원 |
+| 2023 | 국가암호공모전 | 특별상 | 한국암호포럼, 한국정보보호학회 등 |
+| 2023 | 암호분석경진대회 | 특별상 | 국방암호기술특화연구센터 |
 
--------
+---
 
-- 🌱 I’m currently learning
+### 💡 교내외 활동
 
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=react&logoColor=white"/>
+#### 🧩 **SW 마에스트로 16기 (2025.04 ~ 2025.11)**
+- 러닝 서비스 [고스트러너(GhostRunner)](https://ghostrun.io/) 기획 및 개발
 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+#### 🎨 **멋쟁이사자처럼 대학 (2024.03 ~ 2025.11)**
+- 12기 프론트엔드 멤버 참여 
+- 13기 프론트엔드 운영진 활동
 
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+#### ☁️ **GDGoC Seoultech (2024.06 ~ 2025.03)**
+- Google Developer Groups on Campus **운영진(Core)** 으로 활동
 
-- 🚀 What I've experienced
+#### 💻 **TOOLS (2023.03 ~ 2024.11)**
+- 교내 학술 동아리
 
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+#### 🔒 **STCE (2023.05 ~ 2023.11)**
+- 보안 및 암호 기술 학습 동아리
 
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+---
 
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-    
-- 🖥️ What I'm Using
+### ⚙️ 관심 분야
+- 프론트엔드 개발 (React · Next.js · React Native)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokkkkkk&layout=compact&theme=vue)
-  
+---
 
-- 🐸 My stats
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokkkkkk&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokkkkkk&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokkkkkk&layout=compact&theme=vue)
+
