@@ -37,6 +37,13 @@
 
 ---
 
+### 🔥 운영중
+
+#### 🫧 **Bloopies 말랑한 수박게임 (2026.01 ~ )**
+- [다운로드](https://bloopies.onelink.me/ulHz/)
+
+---
+
 ### ⚙️ 관심 분야
 - 프론트엔드 개발 (React · Next.js · React Native)
 
@@ -45,3 +52,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokkkkkk&show_icons=true&theme=vue)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokkkkkk&layout=compact&theme=vue)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/seokkkkkk"/>
+</a>
