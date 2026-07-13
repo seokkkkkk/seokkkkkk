@@ -53,6 +53,8 @@
 
 ---
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=seokkkkkk&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=vue)](https://github-stats-extended.vercel.app/api?username=seokkkkkk&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=vue)
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/seokkkkkk"/>
 </a>
