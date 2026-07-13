@@ -49,9 +49,6 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokkkkkk&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seokkkkkk&layout=compact&theme=vue)
-
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/seokkkkkk"/>
 </a>
