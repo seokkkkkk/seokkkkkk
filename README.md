@@ -3,7 +3,7 @@
 ### 🎓 학력
 **서울과학기술대학교 (Seoul National University of Science and Technology)**  
 컴퓨터공학과
-📆 2020.03 ~ 2026.02 (예정)  
+📆 2020.03 ~ 2026.02
 
 ---
 
